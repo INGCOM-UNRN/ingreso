@@ -1,1 +1,86 @@
-<mxfile host="app.diagrams.net" modified="2022-01-19T00:11:48.286Z" agent="5.0 (X11)" etag="5sjqluYLYT91bGEXGKwX" version="16.3.0" type="device"><diagram id="E2bQt84_KvBZb-h_ofLl" name="Page-1">7VlZs5owFP41PNYJCSg+4tb70N7p1M709jFKBHoDsSFu/fVNIOzq1ap3mZEHJvlycrJ9ZwkYaBhtP3O8DL4yj1ADAm9roJEBYR858q2AXQbYsJcBPg+9DDJLYBr+JRoEGl2FHklqgoIxKsJlHZyzOCZzUcMw52xTF1swWh91iX3SAqZzTNvoz9ATQYY6NijxBxL6QT6yCXTLDM+ffc5WsR4vZjHJWiKcq9GiSYA9tqlAaGygIWdMZKVoOyRU7Wq+Y1m/yYHWYsqcxOKUDjPyQ4yTJVy53cf5Q/BnNxkMPnX13MQu3wriyZ3RVcZFwHwWYzou0UG6XKK0AlkrZb4wtpSgKcHfRIidPma8EkxCgYiobiXbUDyp7h1b135VWkZbrTmt7HSF4hmhg2K3h4wynk4YjdwRHDlSJBGcPZNKi+tAYLqyZcFiUcFNC3UtqPEJjkKqRvnOZkzOFIIhk8uLE7XCVGLKVnyuVhIIIfkIbeTKl9xn9VICScdnzKcEL8OkM2dR2jBPUtHJItMvi8UINhxUx8iOQO37wZPVUJLP5NBxQm07mPtEHJFDBf+kRRMWEcHlFAEnFItwXZ8H1rblF3IlyWRB8+wMzulJrjFd6ZEM2KVyugMvXMuir4qxMUTGwI0IV0dijKHhdI0+UGU0yeXl8JUue7TIYpjIYz+oYcabvZs6G+ZRJ/8mCAWZLnF6KBvpGutEX4SUVng3ccf2sLePqWDiDJzRB2HqmnBBtse52uaW7gAt7Q51pJBrz+qbit/VUFBxuXm3q7PRabFxqqjnjt7CMx7wch5Z4FXKzo/q4xJpI2HsywGs63o8dKLH613o8dKuLud4VxFYslDuTEXzNwWUZEd2nezIaoTo8+RlIZtByfZiKf9vAKbZsoBHdif/Tchvvw35TXAh+y/ysKjFr0Zwh10cqciZRVwlAYrA3Qy/AYtmq+Qeeq8QehE4LfQ6twq99v3y8U54dYo3etHLwGuE2FZMLOiXJ4wAdEDlaSjMfKbW0eDnFYJl/00oG8tJP1Urv3KWqkrJ2bS2qzC4TXRwJ/rFYbf3Srfs/QZhg7pBWKZ9kgmcm7xayK4bnvNC8orARfIIvkKy23spF6l8JtjTAow+Opad3D8OXJShoG6TEnYrQzHtPSkKulWKYqJ3dBO6u+Hr3moOJhwdgCzLgT3b6ULQq3vbXr/Trz519VlMuFn6kf8vOf7tlJNEHHVmJ33pvLuvsy9YjYhmwfYFq/hzdKH7ktXy11FGr/LPHBr/Aw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2025-02-07T15:30:53.781Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:133.0) Gecko/20100101 Firefox/133.0" etag="63d0uON4NyMfIfLTakix" version="24.7.3" type="device">
+  <diagram name="Page-1" id="pW5fAzSY5O_jGKpTEpXj">
+    <mxGraphModel dx="340" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OXh9eTgAQLzGXF4mNX6p-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#DAD2D8;strokeColor=#666666;fontColor=#143642;fontFamily=Roboto Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BCondensed;fillColor=#f5f5f5;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OXh9eTgAQLzGXF4mNX6p-11" target="OXh9eTgAQLzGXF4mNX6p-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="157" as="sourcePoint" />
+            <mxPoint x="280" y="246.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OXh9eTgAQLzGXF4mNX6p-3" value="Sí" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#666666;fontColor=#143642;fontFamily=Roboto Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BCondensed;spacing=4;fillColor=#f5f5f5;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OXh9eTgAQLzGXF4mNX6p-5" target="OXh9eTgAQLzGXF4mNX6p-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="327" />
+              <mxPoint x="350" y="327" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OXh9eTgAQLzGXF4mNX6p-4" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#666666;fontColor=#143642;fontFamily=Roboto Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BCondensed;spacing=5;fillColor=#f5f5f5;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OXh9eTgAQLzGXF4mNX6p-5" target="OXh9eTgAQLzGXF4mNX6p-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OXh9eTgAQLzGXF4mNX6p-5" value="resto &amp;gt;= divisor" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontFamily=Roboto Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BCondensed;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="230" y="277" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="OXh9eTgAQLzGXF4mNX6p-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#DAD2D8;strokeColor=#666666;fontColor=#143642;fontFamily=Roboto Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BCondensed;fillColor=#f5f5f5;" edge="1" parent="1" source="OXh9eTgAQLzGXF4mNX6p-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="279.8" y="106.00000000000011" as="sourcePoint" />
+            <mxPoint x="279.8" y="136" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OXh9eTgAQLzGXF4mNX6p-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=#DAD2D8;strokeColor=#666666;fontColor=#143642;fontFamily=Roboto Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BCondensed;fillColor=#f5f5f5;" edge="1" parent="1" source="OXh9eTgAQLzGXF4mNX6p-8" target="OXh9eTgAQLzGXF4mNX6p-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="415" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="435" y="255" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OXh9eTgAQLzGXF4mNX6p-8" value="&lt;div&gt;resto ← resto – divisor&lt;/div&gt;&lt;div&gt;veces = veces + 1&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontFamily=Roboto Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BCondensed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="304" width="130" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="OXh9eTgAQLzGXF4mNX6p-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#DAD2D8;strokeColor=#666666;fontColor=#143642;fontFamily=Roboto Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BCondensed;fillColor=#f5f5f5;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="OXh9eTgAQLzGXF4mNX6p-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="279.74" y="490" as="targetPoint" />
+            <mxPoint x="279.74" y="450" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OXh9eTgAQLzGXF4mNX6p-11" value="&lt;div&gt;veces ← 0&lt;/div&gt;&lt;div&gt;resto ← dividendo&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontFamily=Roboto Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BCondensed;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="225" y="190" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OXh9eTgAQLzGXF4mNX6p-12" value="&lt;div&gt;dividendo ← ?&lt;/div&gt;&lt;div&gt;divisor ← ?&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="220" y="130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OXh9eTgAQLzGXF4mNX6p-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#DAD2D8;strokeColor=#666666;fontColor=#143642;fontFamily=Roboto Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BCondensed;fillColor=#f5f5f5;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OXh9eTgAQLzGXF4mNX6p-12" target="OXh9eTgAQLzGXF4mNX6p-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="186" as="sourcePoint" />
+            <mxPoint x="290" y="127" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OXh9eTgAQLzGXF4mNX6p-14" value="resto es:" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="240" y="408" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OXh9eTgAQLzGXF4mNX6p-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OXh9eTgAQLzGXF4mNX6p-15" target="OXh9eTgAQLzGXF4mNX6p-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OXh9eTgAQLzGXF4mNX6p-15" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="275" y="100" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OXh9eTgAQLzGXF4mNX6p-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="275" y="468" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OXh9eTgAQLzGXF4mNX6p-20" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="275" y="250" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OXh9eTgAQLzGXF4mNX6p-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#DAD2D8;strokeColor=#666666;fontColor=#143642;fontFamily=Roboto Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BCondensed;fillColor=#f5f5f5;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OXh9eTgAQLzGXF4mNX6p-20" target="OXh9eTgAQLzGXF4mNX6p-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="270" as="sourcePoint" />
+            <mxPoint x="290" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
